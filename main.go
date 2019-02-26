@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"kajito/cid"
-	"kajito/wiggin/db"
-	"kajito/wiggin/lib"
-	"kajito/wiggin/repo"
+	"github.com/krystah/cid"
+	"github.com/krystah/wiggin/db"
+	"github.com/krystah/wiggin/lib"
+	"github.com/krystah/wiggin/repo"
 	"log"
 	"os"
 )
